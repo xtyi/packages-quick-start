@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/xtyi/packages-quick-start/issues"
   },
-  "homepage": "https://github.com/xtyi/packages-quick-start#readme"
+  "homepage": "https://github.com/xtyi/packages-quick-start#readme",
+  "publishConfig": {
+    "@xtyi:registry": "https://npm.pkg.github.com"
+  }
 }
